@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_info_hint">程序崩溃了，请重启程序！</string>
+    <string name="program_reset">重启程序</string>
+    <string name="loading">数据加载中...</string>
+
+    <string name="HTTP_EXCEPTION">Network error</string>
+    <string name="ANALYTIC_SERVER_DATA_ERROR">Parse error</string>
+    <string name="CONNECT_ERROR">The connection fails</string>
+    <string name="TIME_OUT_ERROR">Network timeout</string>
+    <string name="UN_KNOWN_ERROR">An unknown error</string>
+
+    <integer name="log_level">3</integer>
+</resources>

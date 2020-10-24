@@ -28,10 +28,13 @@ android {
 
 dependencies {
     //网络框架
+    api 'io.reactivex.rxjava2:rxjava:2.2.3'
+    api 'io.reactivex.rxjava2:rxandroid:2.1.0'
     api 'com.squareup.retrofit2:retrofit:2.9.0'
     api 'com.squareup.retrofit2:converter-gson:2.9.0'
     api 'com.squareup.retrofit2:adapter-rxjava2:2.9.0'
     api 'com.squareup.okhttp3:logging-interceptor:4.7.2'
     //GSON解析数据
     api 'com.google.code.gson:gson:2.8.6'
+    implementation 'androidx.annotation:annotation:1.1.0'
 }
